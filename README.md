@@ -1,5 +1,4 @@
-![HelloWorld](https://github.com/user-attachments/assets/b415f4d4-9b2e-40a3-aa67-5cfefaf47009)
-![HelloWorld-ezgif com-gif-maker](https://github.com/user-attachments/assets/9487ff60-f6b4-47b7-8357-956cc046d4bf)
+![HelloWorld](https://github.com/user-attachments/assets/9487ff60-f6b4-47b7-8357-956cc046d4bf)
 
 ### <div align="center"><h1 align="center">Hi <img src="https://github.com/user-attachments/assets/d4ebdde2-685c-4ee6-9e6b-4d0e2ec00eb1" height="40px"/>, I'm Kareem Sinbel</h1>
 <h3 align="center">Software Engineer | Backend .NET Core</h3></div>  
