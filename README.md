@@ -2,7 +2,7 @@
 
 
 ### <div align="center"><h1 align="center">Hi 👋, I'm Kareem Sinbel</h1>
-<h3 align="center"> software engineer | Backend .NET Core</h3></div>  
+<h3 align="center"> Software Engineer | Backend .NET Core</h3></div>  
   
 
 -    I am a computer science student specialized in software engineering, with a strong foundation in coding and passionate for learning new technologies.
