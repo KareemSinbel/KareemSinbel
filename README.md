@@ -18,7 +18,7 @@
 
 
 
-### <img src="https://www.svgrepo.com/show/495178/code-1.svg" alt="webdev" height="20"/>&nbsp;Languages  
+### <img src="https://www.svgrepo.com/show/495178/code-1.svg" alt="webdev" height="20"/>&nbsp;Languages&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <div style="height: 20px"></div>
 
 <div align="center">  
@@ -40,7 +40,7 @@
 
 
 
-### <img src="https://www.svgrepo.com/show/98831/web-development.svg" alt="webdev" height="20"/>&nbsp; Web Development  
+### <img src="https://www.svgrepo.com/show/98831/web-development.svg" alt="webdev" height="20"/>&nbsp; Web
 <div style="height: 20px;"></div>
 
 <div align="center">  
@@ -58,7 +58,7 @@
 
 
 
-### <img src="https://www.svgrepo.com/show/280693/tools-and-utensils-microchip.svg" alt="webdev" height="20"/>&nbsp;Tools&Frameworks  
+### <img src="https://www.svgrepo.com/show/280693/tools-and-utensils-microchip.svg" alt="webdev" height="20"/>&nbsp;Tools  
 <div style="height: 20px"></div>
 
 <div align="center">  
