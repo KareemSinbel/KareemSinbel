@@ -13,13 +13,11 @@
 
 <dl>
 <dd>
-<dl>
-<img src="https://github.com/user-attachments/assets/b06c8be9-ee85-413a-90f6-2fe0ab148cfb" align="left" width="450px" height="500x"/>
-</dl>
+<img src="https://github.com/user-attachments/assets/b06c8be9-ee85-413a-90f6-2fe0ab148cfb" align="right" width="450px" height="500x"/>
 </dd>
 </dl>
 
-<div align="right" width="60%">
+<div align="left" width="60%">
 
 <div align="center">
 
