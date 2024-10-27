@@ -9,9 +9,19 @@
 
 ## 💻 Languages and Skills 
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around; width: 100%;">
+<div style="display:flex;flex-direction:row;justify-content:center;">
 
-<div align="center" style="flex: 1; min-width: 200px; margin: 10px;">
+<dl>
+<dd>
+<dl>
+<img src="https://github.com/user-attachments/assets/b06c8be9-ee85-413a-90f6-2fe0ab148cfb" align="left" width="450px" height="500x"/>
+</dl>
+</dd>
+</dl>
+
+<div align="right" width="60%">
+
+<div align="center">
 
 ### <img src="https://www.svgrepo.com/show/495178/code-1.svg" alt="webdev" height="20"/>&nbsp; Languages
 
@@ -23,7 +33,7 @@
 
 </div>
 
-<div align="center" style="flex: 1; min-width: 200px; margin: 10px;">
+<div align="center">
 
 ### <img src="https://www.svgrepo.com/show/98831/web-development.svg" alt="webdev" height="20"/>&nbsp; Web Development  
 
@@ -34,7 +44,7 @@
 
 </div>
 
-<div align="center" style="flex: 1; min-width: 200px; margin: 10px;">
+<div align="center">
 
 ### <img src="https://www.svgrepo.com/show/280693/tools-and-utensils-microchip.svg" alt="tools" height="20"/>&nbsp; Tools & Frameworks  
 
@@ -47,17 +57,19 @@
 
 </div>
 
-<div align="center" style="flex: 1; min-width: 200px; margin: 10px;">
+<div align="center">
 
 ### <img src="https://www.svgrepo.com/show/535339/database.svg" alt="database" height="20"/>&nbsp; Databases  
 
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MS SQL Server" height="50"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.mysql.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>
 
-
 </div>
 
 </div>
+
+</div>
+
 
 <br/>
 
