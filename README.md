@@ -3,7 +3,7 @@
 ### <div align="center"><h1 align="center">Hi <img src="https://github.com/user-attachments/assets/d4ebdde2-685c-4ee6-9e6b-4d0e2ec00eb1" height="40px"/>, I'm Kareem Sinbel</h1>
 <h3 align="center">Software Engineer | Backend .NET Core</h3></div>  
 
-- I am a computer science student specialized in software engineering, with a strong foundation in coding and passionate for learning new technologies.
+- I am a computer science graduate specialized in software engineering, with a strong foundation in coding, and passionate about learning new technologies.
 
 <br/>  
 
